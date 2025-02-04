@@ -1,5 +1,13 @@
 # API-Menu-Board
 
+INTEGRANTES:
+
+Miguel Veintimilla
+Ariana Cordova
+Cristhian Davila
+Gerardo Naula
+Camila Chimbo
+
 IMPLEMENTACION:
 
 
